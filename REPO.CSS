@@ -469,7 +469,7 @@ section {
 
 .stars {
   font-size: 1.5rem;
-  color: #000000; 
+  color: #000000;
   letter-spacing: 2px;
 }
 
@@ -494,8 +494,6 @@ section {
   gap: 80px;
   position: relative;
   padding: 50px 0;
-  /* This section has the subtle arch/wave background in the image. */
-  /* A background image or complex border-radius would be needed for a precise replica. */
 }
 
 .stat-item {
@@ -642,7 +640,6 @@ section {
     text-align: center;
   }
 }
-
 
 .ecwid-footer {
     background-color: var(--footer-bg);
